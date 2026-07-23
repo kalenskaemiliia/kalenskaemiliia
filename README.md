@@ -38,6 +38,6 @@ I'm a self-taught developer currently based in Germany, learning to build practi
   Full-Stack vocabulary tracker with CRUD operations, custom REST API, and SQLite database.  
   *Technologies: HTML, CSS, JavaScript, Node.js, Express.js*
 
-- **[2048 Game](https://github.com/kalenskaemiliia/2048-game)**  
+- **[2048 Game](https://github.com/kalenskaemiliia/2048)**  
   Browser-based clone of the popular 2048 puzzle game with localStorage for high scores.  
   *Technologies: HTML, CSS, JavaScript*
